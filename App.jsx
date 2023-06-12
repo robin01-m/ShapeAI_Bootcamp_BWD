@@ -16,6 +16,7 @@ function App() {
       <Note />
       <Note />
       //commit message
+      //second commit
     </div>
   );
 }
