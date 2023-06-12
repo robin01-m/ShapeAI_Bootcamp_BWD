@@ -15,8 +15,7 @@ function App() {
       <Note />
       <Note />
       <Note />
-      //commit message
-      //second commit
+      //Commit to a remote branch 
     </div>
   );
 }
